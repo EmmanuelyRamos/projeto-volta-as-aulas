@@ -1,0 +1,63 @@
+{
+    "title": "Favorite Books 2025",
+    
+    "menu.livros": "BOOKS",
+    "menu.sobre": "ABOUT",
+    "menu.faq": "FAQ",
+    "menu.contato": "CONTACT",
+    "menu.login": "LOGIN►",
+    
+    "livros.titulo": "FAVORITE BOOKS - 2025",
+    
+    "livros.amor-obvio.titulo": "O amor não é óbvio",
+    "livros.amor-obvio.p1": "Iris is 17 years old and addicted to the soap opera Love in Acts. She and her neighbor, Dona Simia, 68 years old, never miss an episode. At school, it seems everyone only thinks about two things: the prom party and losing their virginity. But Iris’s life is about to change: Cadu Sena, her platonic crush since eighth grade, is single. This is Iris’s chance.",
+    "livros.amor-obvio.p2": "But first she needs to understand what made Cadu's girlfriend leave him for a girl, Edra Norr. Riding her bike, Iris will cross São Patrique to learn everything about Edra, and it won't take long for her to get caught up in the charms of the girl. We may think we know who we'll fall for, but love is not obvious.",
+    "livros.amor-obvio.p3": "A touching story between two girls who, during the turbulent and discovery-filled phase of adolescence, realize a lot about who they are and about that strange feeling called love, which doesn't follow any script.",
+    
+    "livros.coisas-obvias.titulo": "Coisas óbvias sobre o amor",
+    "livros.coisas-obvias.p1": "Three years have passed since Edra and Iris fell in love and since adult life pulled them apart. Edra is studying at a college in Montana, where sunsets are not orange, the days are cold, and people even colder. This includes Pilar, her new girlfriend-to-be.",
+    "livros.coisas-obvias.p2": "The only familiar thing in this distant land is riding a bike — delivering delicious Brazilian food served by Croquete Cabana, her job as a delivery person. The money isn’t much, but it’s better than taking any cent from her father or telling him the truth.",
+    "livros.coisas-obvias.p3": "Despite everything, Edra is finally starting to adapt — the cold no longer irritates as much, she can still weave through cars, and Pilar increasingly looks like a chance to leave the past behind. But an irresistible invitation arrives to change everything... Dona Simia is getting married and carefully picked her pair of bridesmaids, just like she picks her soap operas. Edra is, of course, one of them. The other bridesmaid studies cinema in New Sieva, grew her hair out, and swapped the yellow bike she used to ride for a cherry-red car called Reddie.",
+    "livros.coisas-obvias.p4": "Unresolved issues, an interrupted love, and all the 'what ifs' left hanging in the air. Coming home is always a meeting between who we were and who we are. It’s time for Edra to face her own ghosts and resolve them once and for all.",
+    
+    "livros.verity.titulo": "Verity",
+    "livros.verity.p1": "Verity Crawford is the bestselling author behind a hit series. She is at the peak of her career, acclaimed by critics and the public. However, a sudden and terrible accident halts her activities, leaving her unable to finish the story... It is in this complex situation that Lowen Ashleigh, a writer on the brink of bankruptcy, is invited to write the remaining three books of the already established series under a pseudonym.",
+    "livros.verity.p2": "To better understand Verity’s creative process regarding the published books and to try to uncover her possible plans for the next ones, Lowen decides to spend a few days at the Crawfords' house, immersed in Verity’s chaotic office — where she finds a kind of autobiography in which the author narrates events from the day she met Jeremy, her husband, until the moments just before her accident — including her perspective on the tragedies involving the couple’s daughters.",
+    "livros.verity.p3": "The more time passes, the more Lowen finds herself entangled in a confusing web of lies and secrets and slowly takes her place in the psychological game surrounding that house. Emotionally and physically attracted to Jeremy, she must decide: expose a version of Verity that not even he knows or keep the secrecy of Verity’s writings?",
+    
+    "livros.luz-emana.titulo": "A luz que ele emana",
+    "livros.luz-emana.p1": "Royal O’Connell’s world is water and rhythm. Hard work and motivation have always kept him a step ahead in the competition. He needs his place on the swim team to secure his scholarship, and that’s the only plan that matters.",
+    "livros.luz-emana.p2": "Camden Morgan’s world is piano and the cadence of sounds. Introverted, he uses music to connect with the world around him. His natural talent, training, and ambition put him among the great promises of classical music.",
+    "livros.luz-emana.p3": "Both had a planned future and neither expected to feel this attraction. Love is not always an easy path, and when everything they worked for is at stake, they will have to decide if being together is worth the risk.",
+    
+    "livros.lado-feio.titulo": "O lado feio do amor",
+    "livros.lado-feio.p1": "When Tate Collins moves into her brother’s apartment in San Francisco to pursue a master's degree in nursing, she doesn’t imagine she’s about to discover the ugly side of love: a relationship where companionship and complicity are not priorities, and sex seems to be the only goal.",
+    "livros.lado-feio.p2": "But Miles Archer, a pilot, neighbor, and best friend of Corbin Collins, knows how to be persuasive — very persuasive. Despite being reserved and emotionally armored to keep strangers from discovering anything about him, he instantly seduces Tate with his mysterious manner and perfect physique. But his beauty hides a painful past.",
+    "livros.lado-feio.p3": "What they feel isn’t love at first sight, but an uncontrollable attraction. Soon, they can no longer resist and give in to desire. Miles, however, refuses to lower the walls he’s built around himself and sets two rules: no questions about the past and no hopes for the future. It will be just a casual relationship; neither wants to get involved.",
+    "livros.lado-feio.p4": "They have perfect chemistry. When together, Tate surrenders without thinking about the consequences or what her brother would do if he found out about the forbidden romance happening under his nose. But the truth is she can’t resist Miles. And before she knows it, she’s crossed all limits... Tate promised not to fall in love but will find that no rule can control love and desire.",
+    
+    "faq.titulo": "FREQUENTLY ASKED QUESTIONS",
+    "faq.q1": "How can I acquire the books shown on the site?",
+    "faq.a1": "Currently, the site shows reading recommendations, but to buy them you can look for them in online or physical bookstores. We will soon have direct purchase links.",
+    
+    "faq.q2": "Are the books presented part of the same series?",
+    "faq.a2": "Some are continuations, like 'Coisas óbvias sobre o amor', which is a sequel to 'O amor não é óbvio', but most are standalone stories.",
+    
+    "faq.q3": "Is there a recommended reading order for the books?",
+    "faq.a3": "Only for titles with sequels (such as the ones mentioned above). The others can be read independently according to your interest.",
+    
+    "faq.q4": "What age group are the books recommended for?",
+    "faq.a4": "Most works fall into the Young Adult category, recommended for readers aged 16 and older.",
+    
+    "faq.q5": "Will there be reviews or ratings of the books?",
+    "faq.a5": "Yes! We are working to include reviews, reader comments, and personalized recommendations soon in the Books section.",
+    
+    "contato.titulo": "CONTACT",
+    "contato.email": "emmanuelyramos5@gmail.com",
+    "contato.telefone": "+55 11 99999-9999",
+    "contato.endereco": "Rua das Fraudes, 136",
+    "contato.cidade": "São Paulo - SP",
+    
+    "footer": "All rights reserved."
+  }
+  

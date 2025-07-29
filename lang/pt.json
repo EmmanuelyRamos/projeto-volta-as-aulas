@@ -1,0 +1,58 @@
+{
+    "title": "Livros Favoritados 2025",
+    "menu.livros": "LIVROS",
+    "menu.sobre": "SOBRE",
+    "menu.faq": "FAQ",
+    "menu.contato": "CONTATO",
+    "menu.login": "LOGIN►",
+  
+    "livros.titulo": "LIVROS FAVORITADOS - 2025",
+  
+    "livros.amor-obvio.titulo": "O amor não é óbvio",
+    "livros.amor-obvio.p1": "Íris tem 17 anos e está viciada na novela Amor em atos. Ela e sua vizinha, Dona Símia, de 68 anos, não perdem um episódio. Na escola, parece que todo mundo só pensa em duas coisas: na festa de formatura e em perder a virgindade. Só que a vida de Íris está prestes a mudar: Cadu Sena, sua paixão platônica desde a oitava série, está solteiro. Essa é a chance de Íris.",
+    "livros.amor-obvio.p2": "Mas antes ela precisa entender o que levou a namorada de Cadu a deixá-lo por uma garota, Édra Norr. Montada em sua bicicleta, Íris vai cruzar São Patrique para descobrir tudo sobre Édra, e não vai demorar para se enredar também nos encantos da garota. A gente pode achar que sabe por quem vai se apaixonar, mas o amor não é óbvio.",
+    "livros.amor-obvio.p3": "Uma história tocante entre duas garotas que, nessa fase turbulenta e cheia de descobertas que é a adolescência, percebem muito sobre quem elas são e sobre esse sentimento estranho, que não segue roteiros, chamado amor.",
+  
+    "livros.coisas-obvias.titulo": "Coisas óbvias sobre o amor",
+    "livros.coisas-obvias.p1": "Três anos se passaram desde que Édra e Íris se apaixonaram e depois que a vida adulta se encarregou de afastar as duas. Édra está cursando faculdade em Montana, onde o pôr do sol não é laranja, os dias são frios e as pessoas mais frias ainda. E isso inclui Pilar, sua nova pretendente a namorada.",
+    "livros.coisas-obvias.p2": "A única coisa familiar nessa terra distante é andar de bicicleta ― fazendo delivery das saborosas comidas brasileiras servidas pelo Croquete Cabana, no seu trabalho como entregadora. A grana não dá para muita coisa, mas é melhor do que aceitar qualquer centavo que venha do pai, ou do que contar a verdade para ele.",
+    "livros.coisas-obvias.p3": "Apesar de tudo, Édra está finalmente começando a se adaptar ― o frio já não irrita tanto, ainda dá para fazer zigue-zague entre os carros e Pilar cada vez mais se parece com uma chance de deixar o passado no passado.Mas um convite irrecusável chega para mudar tudo... Dona Símia vai se casar e escolheu a dedo sua dupla de madrinhas, da mesma maneira como escolhe suas novelas. Édra, é claro, é uma delas. A outra madrinha cursa cinema em Nova Sieva, deixou o cabelo crescer e trocou a bicicleta amarela que costumava usar por um carro vermelho-cereja chamado Reddie.",
+    "livros.coisas-obvias.p4": "Assuntos mal resolvidos, um amor interrompido, e todos os “e se”s que ficaram soltos pelo ar. Voltar para casa é sempre um encontro de quem fomos e de quem somos. Está na hora de Édra encarar os próprios fantasmas e se resolver de uma vez por todas.",
+  
+    "livros.verity.titulo": "Verity",
+    "livros.verity.p1": "Verity Crawford é a autora best-seller por trás de uma série de sucesso. Ela está no auge de sua carreira, aclamada pela crítica e pelo público, no entanto, um súbito e terrível acidente acaba interrompendo suas atividades, deixando-a sem condições de concluir a história... E é nessa complexa circunstância que surge Lowen Ashleigh, uma escritora à beira da falência convidada a escrever, sob um pseudônimo, os três livros restantes da já consolidada série.",
+    "livros.verity.p2": "Para que consiga entender melhor o processo criativo de Verity com relação aos livros publicados e, ainda, tentar descobrir seus possíveis planos para os próximos, Lowen decide passar alguns dias na casa dos Crawford, imersa no caótico escritório de Verity - e, lá, encontra uma espécie de autobiografia onde a escritora narra os fatos acontecidos desde o dia em que conhece Jeremy, seu marido, até os instantes imediatamente anteriores a seu acidente - incluindo sua perspectiva sobre as tragédias ocorridas às filhas do casal.",
+    "livros.verity.p3": "Quanto mais o tempo passa, mais Lowen se percebe envolvida em uma confusa rede de mentiras e segredos, e, lentamente, adquire sua própria posição no jogo psicológico que rodeia aquela casa. Emocional e fisicamente atraída por Jeremy, ela precisa decidir: expor uma versão que nem ele conhece sobre a própria esposa ou manter o sigilo dos escritos de Verity?",
+  
+    "livros.luz-emana.titulo": "A luz que ele emana",
+    "livros.luz-emana.p1": "O mundo de Royal O'Connell é água e ritmo. Trabalho duro e motivação é o que sempre o manteve um passo à frente na competição. Ele precisa do seu lugar na equipe de natação para garantir a sua bolsa de estudos, e esse é o único plano que importa.",
+    "livros.luz-emana.p2": "O mundo de Camden Morgan é o piano e a cadência dos sons. Introvertido, usa a música para se conectar com o mundo ao seu redor. Seu talento natural, treino e ambição, colocam ele como uma das grandes promessas da música clássica.",
+    "livros.luz-emana.p3": "Ambos tinham um futuro planejado e nenhum deles esperava sentir essa atração. O amor nem sempre é um caminho fácil e, quando tudo pelo que eles trabalharam está em jogo, eles terão que decidir se estar juntos vale o risco.",
+  
+    "livros.lado-feio.titulo": "O lado feio do amor",
+    "livros.lado-feio.p1": "Quando Tate Collins se muda para o apartamento do irmão, em São Francisco, pronta a se dedicar ao mestrado em enfermagem, não imagina estar prestes a conhecer o lado feio do amor. Um relacionamento em que companheirismo e cumplicidade não são prioridades. E o sexo parece ser o único objetivo.",
+    "livros.lado-feio.p2": "Mas Miles Archer, piloto de avião, vizinho e melhor amigo de Corbin Collins, sabe ser persuasivo. E muito. Apesar de reservado, e da armadura emocional que carrega para não deixar estranhos se aproximarem e descobrirem nada a seu respeito, ele instantaneamente seduz Tate com seu jeito misterioso e físico perfeito. Mas sua beleza esconde um passado repleto de dor.",
+    "livros.lado-feio.p3": "O que os dois sentem não é amor à primeira vista, mas uma atração incontrolável. Em pouco tempo não conseguem mais resistir e se entregam ao desejo. Miles, no entanto, se recusa a abaixar as barreiras que construiu em volta de si mesmo e impõe duas regras: sem perguntas sobre o passado e sem esperanças para o futuro. Será apenas uma relação casual e nada mais; nenhum dos dois quer se envolver.",
+    "livros.lado-feio.p4": "Eles têm a sintonia perfeita. Quando estão juntos, Tate se entrega sem pensar nas consequências, no que seu irmão faria se descobrisse aquele romance proibido acontecendo embaixo de seu nariz. Mas a verdade é que ela não pode resistir a Miles. E quando se dá conta, já ultrapassou todos os limites... Tate prometeu não se apaixonar. Mas vai descobrir que nenhuma regra é capaz de controlar o amor e o desejo.",
+  
+    "faq.titulo": "PERGUNTAS FREQUENTES",
+    "faq.q1": "Como posso adquirir os livros mostrados no site?",
+    "faq.a1": "Atualmente, o site apresenta recomendações de leitura, mas para comprá-los você pode procurar em livrarias online ou físicas. Em breve teremos links de compra direta.",
+    "faq.q2": "Os livros apresentados fazem parte de uma mesma série?",
+    "faq.a2": "Alguns são continuação, como \"Coisas óbvias sobre o amor\", que é sequência de \"O amor não é óbvio\", mas a maioria são histórias independentes.",
+    "faq.q3": "Existe uma ordem recomendada para leitura dos livros?",
+    "faq.a3": "Apenas no caso dos títulos com continuação (como os mencionados acima). Os demais podem ser lidos de forma independente, de acordo com seu interesse.",
+    "faq.q4": "Os livros são indicados para qual faixa etária?",
+    "faq.a4": "A maioria das obras se enquadra na categoria Young Adult (jovem adulto), sendo recomendadas para leitores a partir dos 16 anos.",
+    "faq.q5": "Haverá resenhas ou avaliações dos livros?",
+    "faq.a5": "Sim! Estamos trabalhando para incluir resenhas, comentários de leitores e recomendações personalizadas em breve na seção de Livros.",
+  
+    "contato.titulo": "CONTATO",
+    "contato.email": "emmanuelyramos5@gmail.com",
+    "contato.telefone": "+55 11 99999-9999",
+    "contato.endereco": "Rua das Fraudes, 136",
+    "contato.cidade": "São Paulo - SP",
+  
+    "footer": "Todos os direitos reservados"
+  }
+  
