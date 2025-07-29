@@ -158,3 +158,19 @@ body {
     margin-right: 10px;
 }
 
+.copy{
+    grid-column: 3/5;
+    margin-bottom: 2rem;
+    background: rgb(255, 33, 199);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+  }
+  
+  
+  .copy p{
+    padding: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(114, 12, 77);
+  }
+  
